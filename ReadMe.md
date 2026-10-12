@@ -15,7 +15,7 @@ The Input/Output Stream Library, the File Stream Library, the C Standard Library
 
 # Useful Websites
 
-- [Web Site Name](https://www.w3schools.com/cpp/default.asp)
+- [W3 Schools](https://www.w3schools.com/cpp/default.asp)
 
 # Future Work
 
